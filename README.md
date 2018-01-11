@@ -1,4 +1,4 @@
-[ДЕМО](https://github.com/almaz73/guessTheAnimal/) 
+[ДЕМО](http://fmap.ru/games/game/guessTheAnimal/index.html) 
 
 
 # guessTheAnimal
