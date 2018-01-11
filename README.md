@@ -1,4 +1,5 @@
-[ДЕМО](http://fmap.ru/games/game/guessTheAnimal/index.html) 
+&#9822; [ДЕМО](http://fmap.ru/games/game/guessTheAnimal/index.html) 
+======
 
 
 # guessTheAnimal
